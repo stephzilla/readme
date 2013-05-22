@@ -56,8 +56,8 @@ This block of text should explain how to configure your application:
 ## Information
 
 Screenshots of your application below:
-![Screenshot 1](Screenshot 1 IMG URL goes here)
-![Screenshot 2](Screenshot 1 IMG URL goes here)
+![Screenshot 1](http://placekitten.com/200/300)
+![Screenshot 2](http://placekitten.com/200/300)
 
 
 ### Known Issues
