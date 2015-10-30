@@ -35,7 +35,7 @@ rails generate my_example_gem:install
 
 ## Usage
 
-Usage explanation goes here
+Usage explanation goes here.
 
 ```erb
 <%= your_code_goes @here do |f| %>
@@ -67,7 +67,7 @@ Screenshots of your application below:
 If you discover any bugs, feel free to create an issue on GitHub fork and
 send us a pull request.
 
-[Issues List](Github Issues List URL goes here).
+[Issues List](Github Issues List URL goes here)
 
 ## Authors
 
@@ -86,4 +86,4 @@ send us a pull request.
 
 ## License
 
-Your Licensing Information goes here. Example: MIT/X11.
+Your Licensing Information goes here. Example: MIT/X11
