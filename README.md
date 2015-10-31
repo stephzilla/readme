@@ -5,7 +5,7 @@
 
 -->
 
-By [Author name](author URL goes here).
+Created by: [Author name](author URL goes here).
 
 [![Code Climate](Code Climate Badge IMG URL goes here)](Code Climate URL goes here)
 
@@ -35,7 +35,7 @@ rails generate my_example_gem:install
 
 ## Usage
 
-Usage explanation goes here
+Put the usage explanation here
 
 ```erb
 <%= your_code_goes @here do |f| %>
