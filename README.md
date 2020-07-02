@@ -5,7 +5,7 @@
 
 -->
 
-By [Author name](author URL goes here).
+Created by: [Author name](author URL goes here).
 
 [![Code Climate](Code Climate Badge IMG URL goes here)](Code Climate URL goes here)
 
@@ -35,7 +35,7 @@ rails generate my_example_gem:install
 
 ## Usage
 
-Usage explanation goes here
+Put the usage explanation here
 
 ```erb
 <%= your_code_goes @here do |f| %>
@@ -73,6 +73,15 @@ send us a pull request.
 
 * Your Name (Your Github URL goes here)
 * Additional Author's name (Their Github URL goes here)
+
+
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
 
 
 ## License
